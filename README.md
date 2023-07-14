@@ -4,18 +4,17 @@
 I’m a studying front-end developer, building and iterating projects one line at a time.  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
+<tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning JavaScript and React  
+- 🌱 I’m currently learning Express.js and TypeScript  
   
 
 - ⚡ Fun fact: I have a money jar for every time I forget a semi-colon!  
 
 
-</td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 

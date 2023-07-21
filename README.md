@@ -1,7 +1,7 @@
 ## Hey there! 👋 
 
 ### Glad to see you here!  
-I'm a self-taught, studying, Full-Stack Developer leveraging JavaScript, Express.js, Node and JQuery! I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
+I'm a self-taught, studying, Front-Stack Developer leveraging JavaScript, Express.js, Node and JQuery! I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
 
 ## Rapidfire  
 <table>

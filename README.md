@@ -1,13 +1,13 @@
 ## Hey there! 👋 
 
 ### Glad to see you here!  
-I'm a self-taught, studying, Front-End Developer leveraging JavaScript, Express.js, Node and JQuery! I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
+I'm a self-taught, studying, Front-End Developer leveraging JavaScript, Node and React! I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
 
 ## Rapidfire  
 <table>
 <tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Express.js and TypeScript  
+- 🌱 I’m currently learning React and TypeScript  
   
 
 - ⚡ Fun fact: I have a money jar for every time I forget a semi-colon!  

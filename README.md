@@ -4,8 +4,8 @@
 Junior Front End Developer, currently working in React and TypeScript! I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
 
 ## Rapidfire  
-<table>
-<tr><td valign="top" width="50%">
+<div>
+
 
 - 🌱 I’m currently learning React and TypeScript
 - 💖 Passionately learning Game Development in my spare time!
@@ -15,9 +15,6 @@ Junior Front End Developer, currently working in React and TypeScript! I enjoy b
 
 <div align="center">
 </div>  
-
-
-</td></tr></table> 
 
 
 ## Languages and Tools  

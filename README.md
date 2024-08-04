@@ -1,11 +1,11 @@
 ## Hey there! 👋 
 
 ### Glad to see you here!  
-Junior Front End Developer, currently working in React and TypeScript! I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
+Junior Fullstack Developer, I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
 
 ## Rapidfire  
-- 🌱 I’m currently learning React and TypeScript
-- 💖 Passionately learning Next.js in my spare time!
+- 🌱 I’m currently working in React / TypeScript
+- 💖 Passionately learning Go in my spare time!
 - ⚡ Fun fact: I have a money jar for every time I forget a semi-colon!  
 
 ## Languages and Tools  

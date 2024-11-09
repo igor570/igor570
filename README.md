@@ -1,11 +1,11 @@
 ## Hey there! 👋 
 
 ### Glad to see you here!  
-Junior Fullstack Developer, I enjoy building out my own projects, solving problems and collaborating with other developers to further my knowledge.
+Junior Fullstack Developer, currently working in the free-to-play gaming industry for social betting.
 
 ## Rapidfire  
-- 🌱 I’m currently working in React / TypeScript
-- 💖 Passionately learning Go in my spare time!
+- 🌱 I’m currently working in React, TypeScript & Node
+- 💖 Passionately learning three.js
 - ⚡ Fun fact: I have a money jar for every time I forget a semi-colon!  
 
 ## Languages and Tools  

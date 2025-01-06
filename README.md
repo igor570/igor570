@@ -1,7 +1,7 @@
 ## Hey there! 👋 
 
 ### Glad to see you here!  
-Junior Fullstack Developer, currently working in the free-to-play gaming industry for social betting.
+Junior Developer, currently working in the free-to-play gaming industry for social betting.
 
 ## Rapidfire  
 - 🌱 I’m currently working in React, TypeScript & Node
